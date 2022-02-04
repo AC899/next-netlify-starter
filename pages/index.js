@@ -12,11 +12,6 @@ export default function Home() {
 
       <main>
 
-body, html {
-  height: 100%;
-}
-
-.bg {
   /* The image used */
   background-image: url("drive.google.com/uc?id=1Hi_mW_e5fZOBk47I2-C1k_M_uzWMeN_i");
 
