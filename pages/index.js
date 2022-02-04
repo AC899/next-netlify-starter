@@ -20,7 +20,7 @@ export default function Home() {
 
 .bg {
   /* The image used */
-  background-image: url("https://drive.google.com/uc?id=1Hi_mW_e5fZOBk47I2-C1k_M_uzWMeN_i");
+  background-image: url("drive.google.com/uc?id=1Hi_mW_e5fZOBk47I2-C1k_M_uzWMeN_i");
 
   /* Full height */
   height: 100%;
