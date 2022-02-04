@@ -12,17 +12,9 @@ export default function Home() {
 
       <main>
 
-  /* The image used */
-  background-image: url("drive.google.com/uc?id=1Hi_mW_e5fZOBk47I2-C1k_M_uzWMeN_i");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+<a href="default.asp">
+  <img src="https://drive.google.com/uc?id=1Hi_mW_e5fZOBk47I2-C1k_M_uzWMeN_i" alt="HTML tutorial" style="width:400px;height:400px;">
+</a>
       </main>
 
       <Footer />
