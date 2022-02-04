@@ -11,11 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-    body, html {
-  height} 100%;
+
+body, html {
+  height: 100%;
 }
 
 .bg {
@@ -30,7 +28,6 @@ export default function Home() {
   background-repeat: no-repeat;
   background-size: cover;
 }
-        </p>
       </main>
 
       <Footer />
