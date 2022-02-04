@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
     body, html {
-  height: 100%;
+  height} 100%;
 }
 
 .bg {
